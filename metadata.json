@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind RAG",
+  "description": "A high-performance Multi-Document Retrieval-Augmented Generation (RAG) system that lets you upload multiple documents and get accurate answers based on their content using Gemini 3 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
